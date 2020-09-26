@@ -1,5 +1,4 @@
-package me.gilo.woodroid.data.cookie
-
+package me.gilo.cocart.data.cookie
 import okhttp3.Interceptor
 import okhttp3.Request
 import okhttp3.Response

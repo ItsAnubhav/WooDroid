@@ -1,5 +1,7 @@
-package me.gilo.woodroid.models
+package me.gilo.woodroid.firebasecart.models;
 
+import me.gilo.woodroid.firebasecart.models.DefaultAttribute
+import me.gilo.woodroid.firebasecart.models.Download
 import java.util.ArrayList
 import java.util.Date
 

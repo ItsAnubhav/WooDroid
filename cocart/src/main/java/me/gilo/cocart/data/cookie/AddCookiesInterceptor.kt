@@ -1,4 +1,4 @@
-package me.gilo.woodroid.data.cookie
+package me.gilo.cocart.data.cookie
 
 import android.content.Context
 import android.preference.PreferenceManager

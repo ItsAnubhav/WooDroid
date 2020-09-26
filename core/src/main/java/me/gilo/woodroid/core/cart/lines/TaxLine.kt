@@ -1,4 +1,4 @@
-package me.gilo.woodroid.models
+package me.gilo.woodroid.core.cart.lines
 
 
 class TaxLine {

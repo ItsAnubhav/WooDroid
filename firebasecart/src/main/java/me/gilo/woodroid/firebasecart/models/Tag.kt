@@ -1,4 +1,4 @@
-package me.gilo.woodroid.models
+package me.gilo.woodroid.firebasecart.models;
 
 import java.io.Serializable
 

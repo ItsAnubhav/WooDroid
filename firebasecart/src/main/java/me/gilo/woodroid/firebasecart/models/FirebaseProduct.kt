@@ -1,9 +1,6 @@
 package me.gilo.woodroid.firebasecart.models
 
-import me.gilo.woodroid.models.DefaultAttribute
-import me.gilo.woodroid.models.Download
-import me.gilo.woodroid.models.Image
-import me.gilo.woodroid.models.Tag
+
 import java.io.Serializable
 import java.util.ArrayList
 import java.util.Date

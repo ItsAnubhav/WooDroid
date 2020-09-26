@@ -1,0 +1,29 @@
+{
+  "version": 2,
+  "artifactType": {
+    "type": "AAPT_FRIENDLY_MERGED_MANIFESTS",
+    "kind": "Directory"
+  },
+  "applicationId": "me.gilo.cocart",
+  "variantName": "debug",
+  "elements": [
+    {
+      "type": "SINGLE",
+      "filters": [],
+      "properties": [
+        {
+          "key": "packageId",
+          "value": "me.gilo.cocart"
+        },
+        {
+          "key": "split",
+          "value": ""
+        }
+      ],
+      "versionCode": 1,
+      "versionName": "1.0",
+      "enabled": true,
+      "outputFile": "AndroidManifest.xml"
+    }
+  ]
+}

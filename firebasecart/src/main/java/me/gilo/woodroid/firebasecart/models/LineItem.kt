@@ -1,4 +1,4 @@
-package me.gilo.woodroid.models
+package me.gilo.woodroid.firebasecart.models;
 
 import com.google.gson.annotations.SerializedName
 import me.gilo.woodroid.core.cart.lines.Metum

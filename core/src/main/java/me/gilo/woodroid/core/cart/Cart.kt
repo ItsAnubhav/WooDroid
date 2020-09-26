@@ -5,7 +5,8 @@ import androidx.lifecycle.LiveData
 import me.gilo.woodroid.core.cart.lines.FeeLine
 import me.gilo.woodroid.core.cart.lines.LineItem
 import me.gilo.woodroid.core.cart.lines.ShippingLine
-import me.gilo.woodroid.models.TaxLine
+import me.gilo.woodroid.core.cart.lines.TaxLine
+
 import java.util.ArrayList
 import java.util.Date
 
